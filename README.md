@@ -3,7 +3,7 @@
 
 # About Me:
 
-- 🌱 I’m currently learning **Data Structure And Algorithm**.<br>
+- 🌱 I’m currently learning **Computer Science**.<br>
 
 - 📫 How to reach me **karnpable5777@gmail.com**.<br>
   
