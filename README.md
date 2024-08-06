@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karn Pable</h1>
-<h3 align="center">About Me :</h3>
+<h3 align="start">About Me :</h3>
 
 - 🌱 I’m currently learning **Data Structure And Algorithm**
 
